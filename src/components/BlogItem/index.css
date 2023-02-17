@@ -1,0 +1,9 @@
+.upper {
+  display: flex;
+  justify-content: space-between;
+}
+.eachItem {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
